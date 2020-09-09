@@ -25,5 +25,4 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Run a script file
-        run: |
-        sh ./helloWorld.sh
+        run: sh ./helloWorld.sh
