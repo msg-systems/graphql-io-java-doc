@@ -1,0 +1,19 @@
+site_name: GraphQL-IO
+
+theme:
+    name: material
+    highlightjs: true
+    hljs_languages:
+        - java
+    logo: layout/graphql-io-logo.svg
+
+nav:
+    - Home: index.md
+    - User Guide:
+        - Writing Your Docs: user-guide/start.md
+
+extra_css:
+    - layout/extra.css
+
+plugins:
+    - search
