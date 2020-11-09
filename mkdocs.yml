@@ -11,6 +11,8 @@ nav:
     - Home: index.md
     - User Guide:
         - Writing Your Docs: user-guide/start.md
+    - Developer Guide:
+        - Deployment: developer-guide/deploy.md
 
 extra_css:
     - layout/extra.css
